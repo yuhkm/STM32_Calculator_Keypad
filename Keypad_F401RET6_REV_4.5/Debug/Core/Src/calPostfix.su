@@ -1,4 +1,0 @@
-../Core/Src/calPostfix.c:18:12:calPostfix_GetOperPri	24	static
-../Core/Src/calPostfix.c:40:12:calPostfix_PutBuf_Oper	32	static
-../Core/Src/calPostfix.c:111:12:calPostfix_PutBuf_Val	48	static
-../Core/Src/calPostfix.c:139:5:calPostfix_Run	1000	static

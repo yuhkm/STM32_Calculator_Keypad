@@ -1,4 +1,0 @@
-../Core/Src/calOper.c:18:13:calOper_convert	2
-../Core/Src/calOper.c:39:15:calOper_Calculate_Oper	5
-../Core/Src/calOper.c:56:15:calOper_Calculate_Tri	5
-../Core/Src/calOper.c:76:5:calOper_Run	20

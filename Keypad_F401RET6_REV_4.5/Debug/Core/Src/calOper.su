@@ -1,4 +1,0 @@
-../Core/Src/calOper.c:18:13:calOper_convert	56	static
-../Core/Src/calOper.c:39:15:calOper_Calculate_Oper	40	static
-../Core/Src/calOper.c:56:15:calOper_Calculate_Tri	32	static
-../Core/Src/calOper.c:76:5:calOper_Run	904	static
