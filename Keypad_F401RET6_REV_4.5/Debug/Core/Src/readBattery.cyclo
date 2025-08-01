@@ -1,0 +1,2 @@
+../Core/Src/readBattery.c:17:5:readBatteryPercentage	3
+../Core/Src/readBattery.c:42:6:printBattery	4
